@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.superpowers/
+reports/
+*.log
+/report.json
+/report.txt
+/demo/fake-secrets.txt
+/demo/nested/sample.env

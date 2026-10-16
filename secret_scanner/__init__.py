@@ -1,0 +1,1 @@
+"""Educational secret scanner."""
