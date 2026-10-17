@@ -2,6 +2,8 @@
 
 A Python CLI for finding possible exposed credentials in a file or directory. Created for the SDEV245 Secret Scanner final project. Seven regex detectors cover passwords, API keys, tokens, and private-key markers.
 
+**Demo video:** [Watch or download the one-minute recording](recordings/Secret-Scanner-One-Minute-Demo-Clean.mp4).
+
 Matches are **candidates**, not proof of a valid or active credential. The scanner works locally and never contacts a provider.
 
 ## Run it
@@ -175,7 +177,9 @@ The suite checks all seven detectors, boundaries, placeholders, overlap handling
 
 ## Recording and final deliverables
 
-See [the one-minute recording guide](docs/demo-recording.md). The assignment requires a **real screen recording** of the scanner running, in addition to the GitHub code link and README. The guide is preparation, not the recording itself. Submit only after reviewing the finished code, repository access, and recording.
+Watch or download the [one-minute screen recording](recordings/Secret-Scanner-One-Minute-Demo-Clean.mp4). It shows real execution of the CLI help, a single-file scan, a recursive directory scan, and a redacted JSON report using invented examples. The cursor stays at the bottom-right edge, clear of the results.
+
+The [recording guide](docs/demo-recording.md) documents the walkthrough and commands. The code, README, and actual recording are all included in this repository.
 
 ## Sources
 

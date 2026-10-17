@@ -1,6 +1,6 @@
 # One-minute Secret Scanner recording
 
-**Status: the actual recording is still required.** Record the program really executing; this guide alone is not the video.
+**Recorded demo:** [Watch or download the one-minute screen recording](../recordings/Secret-Scanner-One-Minute-Demo-Clean.mp4). It shows actual Python CLI execution with invented examples, including help, file and directory scans, and redacted JSON. The walkthrough below documents the commands.
 
 Before recording, run python create_demo.py once to generate the fake examples locally. Existing files are kept. Open PowerShell in the project folder. Increase the text size until commands and results are readable. Use the fake demo files only. If python is unavailable, use the bundled interpreter described in the README.
 
@@ -25,4 +25,4 @@ The last command has a longer report; scroll to show one finding and the summary
 
 Use your normal screen recorder to capture approximately 60 seconds. Review playback for readable results and real execution. Save a video file, or a shareable recording link your instructor can access. Keep unrelated tabs and private material out of the capture.
 
-Before submitting, review the GitHub code link, README, and actual video. Canvas has not been submitted by this project preparation.
+Before submitting, review the GitHub code link, README, and actual video.
